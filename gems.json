@@ -1,0 +1,1404 @@
+{
+    "Title": "Gem Database",
+    "Revision": "0.5.0",
+    "catagories": [
+        {   "name": "ornamental",
+            "baseworth": 12,
+            "baserarity": 80,
+            "gems": [
+                {   "name": "Agni Mani",
+                    "description": "This black, irregularly shaped glasslike ornamental stone has fallen from the sky in meteoritic form to crash among the sands.",
+                    "magic":false
+                },
+                {   "name": "Algae",
+                    "description": "Algae is a quartz ornamental stone that is covered with rich, dark brown, wavy patterns.",
+                    "magic":false
+                },
+                {   "name": "Augelite",
+                    "description": "A soft, fragile ornamental stone found naturally in clear, colorless crystals, augelite is easily worked without special skill or tools but does not last long in normal use for adornment",
+                    "magic":false
+                },
+                {   "name": "Azurite",
+                    "description": "Azurite is a form of malachite slightly rarer than that minerals banded, multitone-green normal colo variety. This ornamental stone is a deep blue with opaque mottling in darker shades of blue.",
+                    "magic":false
+                },
+                {   "name": "Banded Agate",
+                    "description": "This opaque stone is a waxy, smooth form of quartz that has striated bands of brown, red, blue, and white stripes.",
+                    "magic":false
+                },
+                {   "name": "Blue Quartz",
+                    "description": "This ornamental stone is a transparent, pale blue crystal usually employed only for adornment.",
+                    "magic":false
+                },
+                {   "name": "Bluestone",
+                    "description": "A colloquial name for the ornamental stone sodalite, this soft, brittle ornamental stone is rich blue and sometimes veined with pink, cream, white, and yellow.",
+                    "magic":false
+                },
+                {   "name": "Chrysocolla",
+                    "description": "Chrysocolla is a translucent variety of chalcedony that has been colored blue-green to green by traces of copper.",
+                    "magic":false
+                },
+                {   "name": "Corstal",
+                    "description": "This rare mineral is found in crystals ranging from colorless to pink. It is fairly hard, brittle, and commonly has inclusions; when free of these impurities it can be faceted, but otherwise it is cut cabochon.",
+                    "magic":false
+                },
+                {   "name": "Crown of Silver",
+                    "description": "Crown of silver is the colloquial name for psilomelane chalcedony, a variety of chalcedony containing abun- dant, minute plumes of black manganese arranged in bands. These bands polish to a brilliant, metallic black.",
+                    "magic":false
+                },
+                {   "name": "Disthene",
+                    "description": "This abundant ornamental stone can be cabochon cut or faceted. Its smallest crystals are clear, but larger crystals are progressively darker shades of red",
+                    "magic":false
+                },
+                {   "name": "Epidote",
+                    "description": "Eye agate is similar to banded agate, but instead of striated bands, the layers within the stone appear as concentric circles. These rings are usually gray, white, brown, grayish-blue, and drab green.",
+                    "magic":false
+                },
+                {   "name": "Eye Agate",
+                    "description": "Fire agate is the name given to chalcedony which contains thin lines of iridescent goethite a rustlike impurity. When properly cut, the iridescence of this ornamental stone displays red, brown, gold, and green hues.",
+                    "magic":false
+                },
+                {   "name": "Fire Agate",
+                    "description": "Fluorspar, also known as fluorite, is a soft, readily cleavable ornamental gemstone occurring in many colors including pale blue, green, yellow, purple, pink, and red.",
+                    "magic":false
+                },
+                {   "name": "Fluorspar",
+                    "description": "Fluorspar, also known as fluorite, is a soft, readily cleavable ornamental gemstone occurring in many colors including pale blue, green, yellow, purple, pink, and red.",
+                    "magic":false
+                },
+                {   "name": "Frost Agate",
+                    "description": "Also known as frost stone, this rare, beautiful ornamental gemstone has frostlike white markings, It is usually tumbled and polished glassy smooth.",
+                    "magic":false
+                },
+                {   "name": "Goldline",
+                    "description": "Goldline is the name given to quartz with lines of gold-colored goethite imbedded in it. The goethite appears within this base as brilliant yellow or gold fibers or tufts that run in parallel lines.",
+                    "magic":false
+                },
+                {   "name": "Greenstone",
+                    "description": "Greenstone is the common name of chlorastrolite, a gray-green variety of pumpellyite found in nodules of up to 3⁄4-inch diameter in solidified lava flows.",
+                    "magic":false
+                },
+                {   "name": "Hematite",
+                    "description": "Hematite is a shiny gray-black gemstone often cut in a baguette fashion rectangular with beveled sides.",
+                    "magic":true
+                },
+                {   "name": "Hyaline",
+                    "description": "A milky or white quartz, it is often set or inlaid in silver and is either cabochon cut or sliced into plates. The milkiness of this ornamental stone is caused by tiny droplets of water or gas trapped in the crystals. Grains of gold often fleck hyaline.",
+                    "magic":false
+                },
+                {   "name": "Lapis Lazuli",
+                    "description": "Lapis lazuli is an opaque, dark to sky-blue orna- mental stone with gold flecks.",
+                    "magic":true
+                },
+                {   "name": "Lynx Eye",
+                    "description": "Lynx eye is a specific type of labradorite a feldspar gemstone. Labradorite as a class of stones is pale to dark gray and has patches of colored reflections. This flash is most commonly blue but can be of any shade.",
+                    "magic":false
+                },
+                {   "name": "Malachite",
+                    "description": "Malachite is a green ornamental stone with striations of darker green. It is related to azurite, which is bluer in hue, and is usually cabochon cut to provide poorer folk with jew elry.",
+                    "magic":false
+                },
+                {   "name": "Microcline",
+                    "description": "It is deep green to blue-green in hue and is sometimes referred as amazonstone. Tiny cleavage cracks within the gemstones reflect light so that a polished microcline stone visibly shimmers.",
+                    "magic":false
+                },
+                {   "name": "Moss Agate",
+                    "description": "This pink to yellow-white agate quartz has fern-like, gray-green manganese inclusions that make it look like a white stone covered with moss.",
+                    "magic":false
+                },
+                {   "name": "Nelvine",
+                    "description": "Nelvine is the common name of albite, a variety of white feldspar. It is soft and fragile, but easily cut with crude tools.",
+                    "magic":false
+                },
+                {   "name": "Nune",
+                    "description": "Translucent, brown crystals also known as staurolite, cross stone, or fairy stone, nunes occur in small, cross-shaped crystals",
+                    "magic":true
+                },
+                {   "name": "Obsidian",
+                    "description": "Also called natural glass or volcanic glass, obsidian is a hard, glossy, and black ornamental stone it is volcanic in origin.",
+                    "magic":true
+                },
+                {   "name": "Oolite ",
+                    "description": "DEA quartz variety which occurs in minute spherules, this ornamental stone is solid brown in color and is very similar in appearance to wave-patterned algae gemstones.SCRIPTION",
+                    "magic":false
+                },
+                {   "name": "Ophealine",
+                    "description": "phealine is also known as axinite, glass stone, or violet yanolite. Ophealine is cut in facets, and although it does not possess one of the most attractive gemstone hues, it can yield finished gemstones that are both hard and durable.",
+                    "magic":false
+                },
+                {   "name": "Rhodocrhrosite",
+                    "description": "Rhodochrosite is a translucent, pink stone with a glassy luster. Rhodochrosite is usually tumbled smooth and polished, displayed in pendants and rings.",
+                    "magic":true
+                },
+                {   "name": "Rosaline",
+                    "description": "Also known as unionite, thulite, or pink zoisite.",
+                    "magic":false
+                },
+                {   "name": "Sagenite",
+                    "description": "Saganite has numerous straight, needlelike inclusions of a different color. It is usually ivory or yellow in color with brown or greenish-black needles, and the needles often radiate, starlike, from a common center.",
+                    "magic":true
+                },
+                {   "name": "Sanidine",
+                    "description": "A feldspar gemstone that is pale tan to straw yellow in color, sanidine is found on the surface of gravel screes or sand dunes.",
+                    "magic":false
+                },
+                {   "name": "Sarbossa",
+                    "description": "It is found in in small cavities in rocks formed during volcanic eruptions. Sarbossa is fibrous and therefore is both tough and soft. It is basically grayish-green in hue but is sometimes beautifully colored with rings of pink, red, white, and green.",
+                    "magic":false
+                },
+                {   "name": "Satin Spar",
+                    "description": "Also known as feather gypsum, this extremely soft but sparkling and easily polished ornamental stone is too fragile for wear. It is white, pink, pale orange, or pale brown in hue.",
+                    "magic":false
+                },
+                {   "name": "Sharpstone",
+                    "description": "Sharpstone is another name for novaculite, a quartz variety that occurs in various colors. Commonly quarried as a gritty sharpening stone, it is sometimes fine enough for gemstone use",
+                    "magic":false
+                },
+                {   "name": "Sheen",
+                    "description": "Sheen is a variety of obsidian that has many minute, spangly inclusions ranging in color from mahogany to russet to silver and gold.",
+                    "magic":false
+                },
+                {   "name": "Silkstone",
+                    "description": "A quartz ornamental stone, silkstone is a special, fibrous variety of tiger eye which has a faint sparkle. It is found in many colors, yellow being the most abundant.",
+                    "magic":false
+                },
+                {   "name": "Snowflake Obsidian",
+                    "description": "Snowflake obsidian is a brittle, weak, volcanic, black glass with grayish, flowerlike inclusions that resemble snowflakes if the stone is properly cut.",
+                    "magic":false
+                },
+                {   "name": "Sunstone",
+                    "description": "Such gemstones have bright red or orange spangles minute crystals suspended in parallel in a nearly colorless background, giving the whole a rich golden or reddish brown color.",
+                    "magic":true
+                },
+                {   "name": "Thuparlial",
+                    "description": "Also called prehnite, this hard, tough, translucent volcanic ornamental stone can be found in various hues from rich green through pale greenish-yellow and yellow to brown.",
+                    "magic":false
+                },
+                {   "name": "Tiger Eye Agate",
+                    "description": "Tiger eye agate is a golden agate with dark brown striping; the coloration and striping give the ornamental stone its name.",
+                    "magic":false
+                },
+                {   "name": "Turquoise",
+                    "description": "This opaque, aqua-blue ornamental stone most often has darker blue mottlings;",
+                    "magic":false
+                },
+                {   "name": "Variscite",
+                    "description": "Also known as lucinite and peganite, this deep to pale yellowish-green, translucent ornamental stone is found in nodules or in rock seams.",
+                    "magic":false
+                },
+                {   "name": "Violane",
+                    "description": "A purple variety of volcanic gemstone found in patches mixed with other minerals, violine is cabochon cut or faceted into a baguette shape.",
+                    "magic":false
+                },
+                {   "name": "Webstone",
+                    "description": "The ornamental stone known commonly as web- stone is more properly called spiderweb obsidian",
+                    "magic":false
+                },
+                {   "name": "Wonderstone",
+                    "description": "Wonderstone is a rhyolite variety displaying bands of red, brown, tan, or purple.",
+                    "magic":false
+                },
+                {   "name": "Woodtine",
+                    "description": "The name of this stone is a corruption of the odd term, applied colloquially here to a variety of cassi- terite. This brownish, fibrous ornamental stone is found in large nodules and is cabochon cut as a gemstone.",
+                    "magic":false
+                },
+                {   "name": "Zarbrina",
+                    "description": "Also known as cerussite, this very soft, leadlike, col- orless mineral is easily cut into brilliant faceted gemstones",
+                    "magic":false
+                }
+            ]
+        },
+        {   "name": "hardstone",
+            "baseworth": 50,
+            "baserarity":70,
+            "gems": [
+                {   "name": "Alabaser",
+                    "description": "Alabaster is the white, finely textured, but brittle, form of gypsum",
+                    "magic":false
+                },
+                {   "name": "Hornbill Ivory",
+                    "description": "Hornbill ivory is not ivory at all, but rather material from the beak of the hornbill bird. This hardstone is carved into items such as combs and beads or used for inlay work in stone or wood items of furniture.",
+                    "magic":false
+                },
+                {   "name": "Ivory",
+                    "description": "The substance that provides the teeth of all mammals is referred to as ivory or dentine when used for decorative purposes. Whenever the teeth or tusks are large enough, they can be used for carving",
+                    "magic":false
+                },
+                {   "name": "Lumachella",
+                    "description": "Also known as fire marble, this hardstone is a rare, dark brown fossil marble variety containing small, irides- cent, opal-like snails.",
+                    "magic":false
+                },
+                {   "name": "Luspeel",
+                    "description": "Also known as magnetite, this magnetic hardstone is used in temple furnishings for effect (to awe the faithful by tugging on their ferromagnetic metal items)",
+                    "magic":false
+                },
+                {   "name": "Pipestone",
+                    "description": "Also known as catlinite, this soft, easily carved brown to red hardstone",
+                    "magic":false
+                },
+                {   "name": "Psaedros",
+                    "description": "Psaedros is the more common name for lepidolite, a soft lilac to mauve to pink mica used in carving. With time, this hardstone’s colors fade, especially in strong sunlight.",
+                    "magic":false
+                },
+                {   "name": "Serpentine Stone",
+                    "description": "Serpentine ranges in use from being cut into fine faceted gemstones to—in less valued forms such as this dark green hardstone variety.",
+                    "magic":false
+                },
+                {   "name": "Soapstone",
+                    "description": "Soapstone (also known as steatite), which comes in varied hues from white to green and is often dyed other colors, can be intricately carved and quickly brought to a warm, glossy finish.",
+                    "magic":false
+                },
+                {   "name": "Sulabra",
+                    "description": "The name by which argillite is more commonly known is sulabra. This hardstone is a soft, gray mineral halfway between slate and shale in its propertiest.",
+                    "magic":false
+                },
+                {   "name": "Tempskya",
+                    "description": "This hardstone is a form of quartz also known as petrified wood. The silicified wood varies widely in hue from black or white through red, yellow, tawny, brown, and sometimes pink.",
+                    "magic":false
+                },
+                {   "name": "Turritella",
+                    "description": "Turritella is a dark brown agate (quartz) hardstone that consists of many small, silicified shells (all spiral-shaped and less than an inch long)",
+                    "magic":false
+                },
+                {   "name": "Xylopal",
+                    "description": "Also known as lithoxyle or opalized wood, this hardstone is moderately prized.",
+                    "magic":false
+                },
+                {   "name": "Star Metal",
+                    "description": " Star metal is another name for metallic mete- orites. These hardstones are extremely rare",
+                    "magic":false
+                }
+            ]
+        },
+        {   "name": "semi-precious",
+            "baseworth": 34,
+            "baserarity":30,
+            "gems": [
+                {   "name": "Agate",
+                    "description": "Agate is a rock consisting primarily of cryptocrystalline silica, chiefly chalcedony, alternating with microgranular quartz. It is characterized by its fineness of grain and variety of color.",
+                    "magic":false
+                },
+                {   "name": "Alestone ",
+                    "description": "Brown to yellowish brown, the hues of old ales, Aletone is named for its color.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "Adds a reaction to hit a projectile that is incoming for a total of three charges per day. If all three charges are used, has a potential to crack."
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "Adds +2 from projectiles"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Andar",
+                    "description": "Also known as andalusite, this hard, durable semiprecious stone is found as small, translucent crystals that flash green-red or brown-red when properly faceted",
+                    "magic":false
+                },
+                {   "name": "Aventurine",
+                    "description": "This semiprecious quartz gemstone contains many mica crystals that give a spangled appearance to the stone when it is viewed from the proper angle. Aventurine can be golden, medium to light green, or dark to pale blue in color.",
+                    "magic":false
+                },
+                {   "name": "Bloodstone",
+                    "description": "Blood red stone, sometimes found with specks of gold inside.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Boakhar",
+                    "description": "This extremely soft and fragile semiprecious stone sees some use in ornamental situations because of the brilliant red-and-orange flash of the translucent gemstones cut from its flat red and orange crystals.",
+                    "magic":false
+                },
+                {   "name": "Carnelian",
+                    "description": "This is the clear reddish or red- dish-brown form of chalcedony.",
+                    "magic":false
+                },
+                {   "name": "Chrysoprase ",
+                    "description": "A translucent chalcedony with an apple-green color",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Citrine",
+                    "description": "Also called false topaz, this semiprecious stone is a transparent yellowish quartz. It cleaves well and is usually cut into facets in brilliant or marquise styles.",
+                    "magic":false
+                },
+                {   "name": "Clelophane",
+                    "description": "Clelophane is the exceptionally beautiful pale green variety of sphalerite (a rock called zincblende or blackjack). This semiprecious stone yields transparent gemstones of green flash",
+                    "magic":false
+                },
+                {   "name": "Datchas",
+                    "description": "The common name for the semiprecious stone dato- lite is datchas. Pink datolite is also called sugar stone. Datchas is cut into faceted gemstones of very pale yellowish green if of the fine variety.",
+                    "magic":false
+                },
+                {   "name": "Dioptase",
+                    "description": "A soft, brittle semiprecious stone of vivid emerald-green hue, dioptase is found in tiny, flawed crystals and yields only the smallest of faceted gemstones that are used in figurine adornment or to decorate lace",
+                    "magic":false
+                },
+                {   "name": "Gold Sheen",
+                    "description": "Gold sheen is a rare variety of obsidian that is golden in color and flecked with minute spangles. gold sheen is usually tumbled then polished to a glassy, gleaming finish. This semiprecious stone is brittle.",
+                    "magic":false
+                },
+                {   "name": "Hambergyle",
+                    "description": "Hambergyle, also called hambergite, is a semiprecious stone that is found in crystal or fragmentary crystal form. It is rare, colorless, and fairly hard, yielding small, faceted gemstones.",
+                    "magic":false
+                },
+                {   "name": "Hydrophane",
+                    "description": "is a variety of opal that is opaque and of a frosty-white or ivory color when dry. In this state, it appears rather unattractive. When soaked in water, it becomes transparent and iridescent, reflecting a rainbow spectrum of colors like a prism.",
+                    "magic":false
+                },
+                {   "name": "Hypersthene",
+                    "description": "Also known as bronzite, hypersthene is normally an opaque brown color containing silvery spangles, but it is sometimes reddish or greenish in hue.",
+                    "magic":false
+                },
+                {   "name": "iol",
+                    "description": "Iols appear straw-yellow, blue, and dark blue depending on viewing direction",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Irtios",
+                    "description": "Also known as danburite, this hard, transparent-to-translucent semiprecious stone is found as crystals in deep rock or as water-worn pebbles in streambeds or gravel deposits. It is either colorless or a very pale yellow.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Jasper",
+                    "description": "Jasper is an opaque quartz semiprecious stone found in reds, browns, and blacks.",
+                    "magic":false
+                },
+                {   "name": "Luriyl",
+                    "description": "A soft stone, easily worked and widely use. Found in crystals, this semiprecious stone commonly yields attractive faceted gemstones of vivid yellow, green, and yellow-green",
+                    "magic":false
+                },
+                {   "name": "Malacon",
+                    "description": "This glassy brown variety of zircon is found in crystals and provides large faceted gemstones. This semiprecious stone is hard but easily chipped",
+                    "magic":false
+                },
+                {   "name": "Mellochrysos",
+                    "description": "Mellochrysos is a vivid yellow variety of zircon found in crystals.",
+                    "magic":false
+                },
+                {   "name": "Moonstone",
+                    "description": "Moonstone is an opaque, white, semiprecious feldspar gemstone usually polished to a bluish sheen. Moonstone glows faintly with captured light for an hour or so in darkness after surrounding or nearby light sources are gone.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Mykaro",
+                    "description": "Also known as smithsonite, this  gemstone can be yellow, straw yellow, pale brown, reddish brown, green, blue, and blue-green. It is brittle when in crystal form, but is both soft and durable when found as a crust in a rock cavity",
+                    "magic":false
+                },
+                {   "name": "Mynteer ",
+                    "description": "Mynteer is the name given to phenakite, a hard, colorless, and rare gemstone. This semiprecious stone occurs in crystals, usually with inclusions. Because of this, the crystals yield only small faceted gemstones.",
+                    "magic":false
+                },
+                {   "name": "Onyx",
+                    "description": "Onyx is an opaque agate of black or white hue or bands of both colors in straight lines.",
+                    "magic":true,"magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Orprase",
+                    "description": "orprase is a brittle, colorless or faintly straw-yellow gemstone of medium hardness.",
+                    "magic":false
+                },
+                {   "name": "Phenalope",
+                    "description": "Also known as rhodonite, this rose-red or pink semi- precious gemstone related to rhodochrosite.",
+                    "magic":false
+                },
+                {   "name": "Rainbow Obsidian",
+                    "description": "Rainbow obsidian is an obsidian variety in which all colors save yellow are included in the black or gray base, sometimes in pronounced bands or spangles. ",
+                    "magic":false
+                },
+                {   "name": "Rock Crystal",
+                    "description": "Rock crystals are clear, transparent stones that are generally softer and less wear-resistant than higher-priced gemstones",
+                    "magic":false
+                },
+                {   "name": "Samarskite",
+                    "description": "Samarskite is a hard and heavy, velvet-black rare- earth mineral with a metallic luster.",
+                    "magic":true
+                },
+                {   "name": "Sardonyx",
+                    "description": "Sardonyx is a form of onyx with alternating bands of carnelian in a red and white pattern.",
+                    "magic":false
+                },
+                {   "name": "Serpentine",
+                    "description": "Serpentine refers to a wide variety of related minerals known more precisely as williamsite, ricolite, verde antique, picrolite, taxoite, bowenite, or poor man's jade.",
+                    "magic":false
+                },
+                {   "name": "Skydrop",
+                    "description": "The common name given in Eldrony to clear or lightly colored tektite material, especially fragments of glass of celestial (meteoritic) origin found in the vast shifting sands.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Smoky Quartz",
+                    "description": "Also called cairngorm or moorland topaz, smoky quartz ranges from a gritty yellow to brown or black in color",
+                    "magic":false
+                },
+                {   "name": "Spodumene",
+                    "description": "A hard and quite durable stone, spodumene is also known as kunzite in its pink-to-purple varieties and hiddenite when emerald green in hue.",
+                    "magic":false
+                },
+                {   "name": "Star Rose Quartz",
+                    "description": "This smoky, rose quartz is asteriated; that is, when cut, it reflects or transmits light in a starlike pattern.",
+                    "magic":false
+                },
+                {   "name": "Tabasheer",
+                    "description": "This semiprecious stone is an opal-like silica found in the joints of certain types of bamboo. Tabasheers are irregular in shape and are usually tumbled and buffed to a velvet smooth finish",
+                    "magic":false
+                },
+                {   "name": "Tehazar",
+                    "description": "Also known as aragonite, this soft, fragile straw- yellow gemstone is found in elongated, prism-shaped crystals. This semiprecious stone requires skilled cutting to yield faceted gemstones.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Witherite",
+                    "description": "Witherite commonly occurs in, fibrous deposits containing translucent areas large enough to yield faceted, pale yellow to whitish gemstones.",
+                    "magic":false
+                },
+                {   "name": "Zircon",
+                    "description": "A brownish crystal found in igneous (volcanic) rocks, zircon attains the pale blue shade.",
+                    "magic":false
+                },
+                {   "name": "Datolite",
+                    "description": "Datolite crystallizes in the monoclinic system forming prismatic crystals and nodular masses. The luster is vitreous and may be brown, yellow, light green or colorless.",
+                    "magic":false
+                }
+            ]
+        },
+        {   "name": "fancy",
+            "baseworth": 64,
+            "baserarity":40,
+            "gems": [
+                {   "name": "Alexandrite",
+                    "description": "A greenish form of chrysoberyl which appears reddish under nonnatural, alexandrite is a transparent fancy stone usually cut into facets and mounted as a pendant or in earrings",
+                    "magic":false
+                },
+                {   "name": "Amber",
+                    "description": "A golden or orange-hued, fossilized resin, this fancy stone is soft and brittle and is usually tumbled smooth and cut cabochon. Some amber contains other preserved fossils, such as primitive plants and insects.",
+                    "magic":false
+                },
+                {   "name": "Amethyst",
+                    "description": "Amethysts are the most valuable of the quartz gem-stones and are normally facet cut into brilliant shape. Amethysts vary in purple hue from a lilac color to a royal purple",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Angelars skin",
+                    "description": "Angelars skin is a fine pink coral suitable for use in jewelry. This fancy stone is usually found in shallow tropical seas upon isolated reefs or atolls. It is delicate and easily shattered unless properly treated and mounted.",
+                    "magic":false
+                },
+                {   "name": "Brandeen",
+                    "description": "his rare, hard mineral yields small reddish-brown to honey-yellow faceted fancy gemstones which are worn by many merchants and courtiers who are unable to afford more expensive gemstones.",
+                    "magic":false
+                },
+                {   "name": "Chrysoberyl",
+                    "description": "This hard, transparent green fancy stone is usually facet cut for adornment.",
+                    "magic":false
+                },
+                {   "name": "coral",
+                    "description": "Coral is formed by small animals that live in the warm seas. The pink and crimson varieties of this fancy stone are considered valuable enough to class as ornaments and be treated as gemstones.",
+                    "magic":false
+                },
+                {   "name": "Jade",
+                    "description": "Jade is a class of fancy stone including both jadeite and nephrite. It appears as an opaque, waxy mineral of light to dark green or white. As jade ages, it darkens further to become a rich brown",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Jargoon",
+                    "description": "Jargoon is a rare, red variety of zircon much prized for its deep ruby luster.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Jet",
+                    "description": "Jet is a deep black gemstone, this fancy stone is a tough variant of bituminous coal",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Kornerupine",
+                    "description": "Kornerupine is a hard, rare, brown or green, translucent fancy stone usually found in streambeds",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Laerals Tears ",
+                    "description": "these soft, brittle, colorless fancy stone crystals tend to  to keep a glossy, magnificent finish.",
+                    "magic":false
+                },
+                {   "name": "Octel",
+                    "description": "Also known as scheelite, this fancy stone occurs in soft crystals that yield sparkling faceted gemstones of pale yellow or orange hue.",
+                    "magic":true
+                },
+                {   "name": "Scapra",
+                    "description": "this name is given to the finest scapolite stones: pale to medium yellow fancy stones that are soft and easy to cut into facets, but also too soft for use in rings or on clothing.",
+                    "magic":false
+                },
+                {   "name": "Shandon",
+                    "description": "Also known as natrolite, this fancy stone occurs in slender, colorless crystals",
+                    "magic":false
+                },
+                {   "name": "Sinhalite",
+                    "description": "A rare stone, sinhalite is found only in streambed gravel or the deposits left by vanished streams as pale straw- yellow to yellow-brown water-worn pebbles.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Star Diopside",
+                    "description": "Star diopside is the most prized form of a hard, durable mineral that is rarely found in attractive colors. This mineral is usually too dark green in color for great beauty, but mountain- and streambed-pebble crystals of pale to medium green hue",
+                    "magic":false
+                },
+                {   "name": "Tourmaline",
+                    "description": "Long-crystalled tourmaline in its multicolored varieties is considered a fancy stone and is abundant, hues vary from green to blue, brown, or red, all in pale shades",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Temair",
+                    "description": "Also known as hexagonite (a pink variety of tremolite), tremair is found in small, translucent, pink crystals that yield even smaller faceted gemstones.",
+                    "magic":false
+                },
+                {   "name": "Ulvaen",
+                    "description": "soft, but shatter resistant, pale to rich yellow fancy stone",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Waterstar",
+                    "description": "Also known as achroite or colorless tourmaline, waterstar is a rare, colorless, and sparkling stone. The only mate- rial of this stone valued for gemstone use is that entirely free of flaws and inclusions.",
+                    "magic":false
+                },
+                {   "name": "Ziose",
+                    "description": "Ziose is the name given by sages to a particular facet-grade variety of ziosite. Cut stones can flash three vivid hues depending on how the light catches them or in what direction they are viewed: purple, blue, and red or purple, green, and red.",
+                    "magic":false
+                },
+                {   "name": "Morganite",
+                    "description": "Morganite, also known as pink beryl, rose beryl, it is a rare light pink to rose-colored gem-quality variety of beryl.",
+                    "magic":false
+                }
+    ]
+        },
+        {   "name": "precious",
+            "baseworth": 189,
+            "baserarity":20,
+            "gems": [
+                {   "name": "Aquamarine",
+                    "description": "Aquamarine is a hard, transparent blue-green precious stone",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Euclase",
+                    "description": "Euclase is a rare precious stone found in small, readily cleavable crystals ranging from colorless to pale yellow, vivid yellow, pale green, and blue.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Flamedance",
+                    "description": "This precious stone is an extremely rare translucent gemstone found in small crystals or fragments. It is hard and resists cleaving when worked, making it ideal for use in carving. ",
+                    "magic":false
+                },
+                {   "name": "Garnet",
+                    "description": "Garnets are general class of crystals ranging from deep red to violet in color. These precious stones are normally isometric in shape",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Heliodor",
+                    "description": "This precious stone is a deep yellow variety of golden beryl varying in hue from greenish yellow to reddish yellow",
+                    "magic":false
+                },
+                {   "name": "Horn Coral",
+                    "description": "This precious stone is a deep black coral similar to Angelar's skin save for its solid color. It is also called night coral. Horn coral is used in jewelry",
+                    "magic":false
+                },
+                {   "name": "Orbaline",
+                    "description": "Also known as benitoite, this blue to colorless, soft precious stone shatters easily and is usually found in fragments.",
+                    "magic":false
+                },
+                {   "name": "Pearl",
+                    "description": "These precious stones are layers of aragonite formed around a bit of grit or other irritant. The resulting pearl has a rich, deep luster. Most pearls are white, though rare and more valuable versions come in different colors",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Peridot",
+                    "description": "his translucent version of olivine is usually olive green in appearance. It is normally found in basalts and with other quartz deposits.",
+                    "magic":false
+                },
+                {   "name": "Raindrop",
+                    "description": "The common name given to cassiterite in the Realms is raindrop, which refers specifically to the flawless, color- less crystals or areas in larger, dark brown cassiterite crystals.",
+                    "magic":false
+                },
+                {   "name": "Rusteen",
+                    "description": "Also known as microlite, this dark reddish brown to pale brown precious stone is much prized for its durability.",
+                    "magic":false
+                },
+                {   "name": "Sphene",
+                    "description": "Sphene is a soft, brittle precious stone easily worked by unskilled cutters. It comes in various yellow to green shades",
+                    "magic":false
+                },
+                {   "name": "Spinel",
+                    "description": "A translucent, durable precious stone found in red (from the hot deserts), blue (from the sea), and green (from the jungles) hues",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Topaz",
+                    "description": "topaz is a very hard, durable, golden, translucent precious stone found in large crystals in granite.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                }
+    ]
+        },
+        {   "name": "gem",
+            "baseworth": 666,
+            "baserarity":9,
+            "gems": [
+                {   "name": "Black Opal",
+                    "description": "Black opal is a greenish type of opal with black mottling and gold flecks. Usually found in ancient hot springs or their dry remnants, this gem is most often tumbled smooth and cabochon cut.",
+                    "magic":false
+                },
+                {   "name": "Fire Opal",
+                    "description": "A brilliant orange-red type of gem, fire opals are usually uniform in hue or contain golden or greenish flecks. They are most often found near active hot springs and geyser activity.",
+                    "magic":false
+                },
+                {   "name": "Jasmal",
+                    "description": "When polished, jasmals catch sunlight or torchlight and give off haloes of amber light, although they themselves remain transparent and colorless.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Moonbar",
+                    "description": "Moonbar crystals are pearly white, opaque gems found in desert and tropical areas Moonbars are naturally rectangular with curved corners and they have a smooth, shiny surface.",
+                    "magic":false
+                },
+                {   "name": "Opal",
+                    "description": "Opaque, smooth gems, opals are pale blue with green and gold mottlings. They. are related in type to fire and black opals, but are only slightly more common.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Orl",
+                    "description": "Orls occur in the softest rock as sharp-edged, spindle-shaped, symmetrical crystals. These crystals are of red, tawny, or orange hue.",
+                    "magic":true
+                },
+                {   "name": "Ravenar",
+                    "description": "Ravenar, a glossy, black variety of tourmaline that is also called schorl.",
+                    "magic":false
+                },
+                {   "name": "Red Tears",
+                    "description": "Also called Tempus' weeping, these teardrop shaped, glossy crystals of vivid cherry-red, blood-crimson, or orange hue",
+                    "magic":false
+                },
+                {   "name": "Tomb Jade",
+                    "description": "This rare, highly prized gem is jade that has turned red or brown through being buried for great lengths of time.",
+                    "magic":false
+                },
+                {   "name": "Water Opal",
+                    "description": "Water opal is a clear, translucent variety of opal with only a play of color to it, like oil on a clear puddle. Transparent opals without a play of color are known as hyalite.",
+                    "magic":false
+                },
+                {   "name": "Zendalure",
+                    "description": "A mottled blue-white gem, zendalure is found as large, egg-shaped crystals",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                }
+    ]
+        },
+        {   "name": "jewel",
+            "baseworth": 1105,
+            "baserarity":7,
+            "gems": [
+                {   "name": "Amaratha",
+                    "description": "Amaratha is a soft, greenish white or very pale green, sparkling type of jewel",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Beljuril",
+                    "description": "These jewels are found as smooth-surfaced, asymmetrical. They occur in old rock, and most frequently are quarried from blue claystone. They are durable and very hard, and cutting one typically wears out several sets of metal tools.",
+                    "magic":false
+                },
+                {   "name": "Jacinth",
+                    "description": "Also called hyacinth or flamegem, this fiery orange jewel is a relative of the sapphire and other corundum gemstones.",
+                    "magic":false
+                },
+                {   "name": "Kings Tears",
+                    "description": "Teardrop-shaped, smooth-surfaced, and awesomely hard; in fact, none have as yet been fractured, cut, or chipped, even by hammer and forge.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Rogue Stone",
+                    "description": "Rogue stones are small jewels of a shifting, rainbow-colored, iridescent hue. Their fluid shades of color appear almost liquid under normal sunlight",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                }
+    ]
+        },
+        {   "name": "god",
+            "baseworth": 4000,
+            "baserarity":0.01,
+            "gems": [
+                {   "name": "Diamond",
+                    "description": "Translucent jewel that catch fire when properly faceted, diamonds are hard, translucent jewels that can be clear appearing blue-white, rich blue, yellow, or pink. Associated with the god Yalto. ",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Emerald",
+                    "description": "Translucent jewel that catch fire when properly faceted, Emeralds are a hard, translucent jewels that can be all shades of green. Associated with the god Pela.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Ruby",
+                    "description": "Translucent jewel that catch fire when properly faceted, Rubies are a hard, translucent jewels that can be all shades of red. Associated with the god Codrirri.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                },
+                {   "name": "Saphire",
+                    "description": "Translucent jewel that catch fire when properly faceted, saphires are a hard, translucent jewels that can be all shades of blue. Associated with the god Itos.",
+                    "magic":true,
+                    "magic attributes": [
+                        {
+                            "category": "Weapons",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Armour",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Jewelry",
+                            "description": "none"
+                        },
+                        {
+                            "category": "Misc",
+                            "description": "none"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sizes": [
+        {   "name": "dust",
+            "weight":90,
+            "sizevalue":0.1
+        },
+        {   "name": "fragments",
+            "weight":80,
+            "sizevalue":0.5
+        },
+        {   "name": "small",
+            "weight":75,
+            "sizevalue":1.5
+        },
+        {   "name": "medium",
+            "weight":50,
+            "sizevalue":3
+        },
+        {   "name": "large",
+            "weight":15,
+            "sizevalue":7
+        },
+        {   "name": "massive",
+            "weight":1,
+            "sizevalue":10
+        }
+    ],
+    "cuts": [
+        {   "name": "Asscher",
+            "cutvalue":2,
+            "cutrarity":0.4
+        },
+        {   "name": "round",
+            "cutvalue":9,
+            "cutrarity":0.1
+        },
+        {   "name": "oval",
+            "cutvalue":3,
+            "cutrarity":0.5
+        },
+        {   "name": "Radiant",
+            "cutvalue":6,
+            "cutrarity":0.7
+        },
+        {   "name": "emerald",
+            "cutvalue":4,
+            "cutrarity":0.8
+        },
+        {   "name": "pear",
+            "cutvalue":2,
+            "cutrarity":0.6
+        },
+        {   "name": "Trilliant",
+            "cutvalue":5,
+            "cutrarity":0.4
+        },
+        {   "name": "masrquise",
+            "cutvalue":2,
+            "cutrarity":0.8
+        },
+        {   "name": "baguette",
+            "cutvalue":3,
+            "cutrarity":1
+        },
+        {   "name": "cushion",
+            "cutvalue":6,
+            "cutrarity":0.9
+        },
+        {   "name": "Octagon",
+            "cutvalue":9,
+            "cutrarity":0.7
+        },
+        {   "name": "Princess",
+            "cutvalue":3,
+            "cutrarity":1
+        },
+        {   "name": "Cabachon",
+            "cutvalue":2,
+            "cutrarity":0.9
+        },
+        {   "name": "Heart",
+            "cutvalue":8,
+            "cutrarity":0.2
+        },
+        {   "name": "Uncut",
+            "cutvalue":0.1,
+            "cutrarity":91
+        }
+    ],
+    "quality": [
+        {   "name": "halfvalue",
+            "multiplier":  0.5
+        },
+        {   "name": "belowvalue",
+            "multiplier":  0.3
+        },
+        {   "name": "abovevalue",
+            "multiplier":   1.14
+        },
+        {   "name": "doublevalue",
+            "multiplier":   2
+        },
+        {   "name": "triplevalue",
+            "multiplier":   3
+        }
+    ]
+}
