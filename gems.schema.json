@@ -1,0 +1,148 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "Title": {
+            "type": "string",
+            "description": "Title of database"
+        },
+        "Revision": {
+            "type": "string",
+            "description": "Revision number of database"
+        },
+        "catagories": {
+            "type": "array",
+            "description": "Array of categories of gems that can be generated",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "Name of category"
+                        },
+                        "baseworth": {
+                            "type": "integer",
+                            "description": "Baseworth of category"
+                        },
+                        "baserarity": {
+                            "type": "integer",
+                            "description": "baserarity of category"
+                        }
+                        },
+                        "gems": {
+                            "type": "array",
+                            "description": "Array of gems in a particular category",
+                            "items": [
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string",
+                                            "description": "Name of gem"
+                                        },
+                                        "description": {
+                                            "type": "string",
+                                            "description": "Description of gem"
+                                        },
+                                        "magic": {
+                                            "type": "boolean",
+                                            "description": "Whether the gem has magic or not"
+                                        },
+                                        "magic attributes": {
+                                            "type": "array",
+                                            "description": "Array of magic attributes",
+                                            "items": [
+                                                {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "category": {
+                                                            "type": "string",
+                                                            "description": "Category of enchantment"
+                                                        },
+                                                        "description": {
+                                                            "type": "string",
+                                                            "description": "Description of enchantment capabilities"
+                                                        }
+                                                    },
+                                                    "required": ["category", "description"]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "required": ["name", "description", "magic"]
+                                }
+                            ]
+                        }
+                    },
+                    "required": ["name", "baseworth", "gems"]
+                }
+            ]
+        },
+        "sizes": {
+            "type": "array",
+            "description": "Array of sizes of gems that can be generated",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "Name of gem size"
+                        },
+                        "weight": {
+                            "type": "integer",
+                            "description": "weight of gem size"
+                        },
+                        "sizevalue": {
+                            "type": "number",
+                            "description": "value of gem size"
+                        }
+                    },
+                    "required": ["name", "weight", "sizevalue"]
+                }
+            ]
+        },
+        "cuts": {
+            "type": "array",
+            "description": "Array of gem cuts",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "Name of gem cut"
+                        },
+                        "cutvalue": {
+                            "type": "integer",
+                            "description": "value of gem cut"
+                        },
+                        "cutrarity": {
+                            "type": "number",
+                            "description": "rarity of gem cut"
+                        }
+                    },
+                    "required": ["name", "cutvalue", "cutrarity"]
+                }
+            ]
+        },
+        "quality": {
+            "type": "array",
+            "description": "Array of qualities of gems",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "name of gem quality"
+                        },
+                        "multiplier": {
+                            "type": "number",
+                            "description": "quality multiplier of gem"
+                        }
+                    },
+                    "required": ["name", "multiplier"]
+                }
+            ]
