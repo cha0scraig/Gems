@@ -1,9 +1,10 @@
+
 {
     "Title": "Gem Database",
     "Revision": "0.5.0",
     "catagories": [
         {   "name": "ornamental",
-            "baseworth": 12,
+            "baseworth": 20,
             "baserarity": 80,
             "gems": [
                 {   "name": "Agni Mani",
@@ -271,7 +272,7 @@
             ]
         },
         {   "name": "semi-precious",
-            "baseworth": 34,
+            "baseworth": 35,
             "baserarity":30,
             "gems": [
                 {   "name": "Agate",
@@ -606,7 +607,7 @@
             ]
         },
         {   "name": "fancy",
-            "baseworth": 64,
+            "baseworth": 65,
             "baserarity":40,
             "gems": [
                 {   "name": "Alexandrite",
@@ -848,7 +849,7 @@
     ]
         },
         {   "name": "precious",
-            "baseworth": 189,
+            "baseworth": 200,
             "baserarity":20,
             "gems": [
                 {   "name": "Aquamarine",
@@ -1018,7 +1019,7 @@
     ]
         },
         {   "name": "gem",
-            "baseworth": 666,
+            "baseworth": 600,
             "baserarity":9,
             "gems": [
                 {   "name": "Black Opal",
@@ -1122,7 +1123,7 @@
     ]
         },
         {   "name": "jewel",
-            "baseworth": 1105,
+            "baseworth": 1100,
             "baserarity":7,
             "gems": [
                 {   "name": "Amaratha",
